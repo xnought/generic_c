@@ -39,3 +39,11 @@ int main()
 python3 compiler.py main.gc generic.c # convert .gc to .c
 gcc generic.c && ./a.out # compile .c
 ```
+
+which outputs
+
+```
+factorial(5) = 120
+factorial(5.000000) = 120.000000
+factorial(5) = 120
+```
