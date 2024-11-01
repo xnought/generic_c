@@ -1,6 +1,6 @@
 Generic copy and paste mechanism for C
 
-```python
+```c
 #include <stdio.h>
 
 COPY factorial T F
