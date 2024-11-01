@@ -1,4 +1,4 @@
-Generic copy and paste mechanism for C
+Generic copy and paste mechanism for C. Yeah I know you can do this with macros, but I wanted to see what I could implement quickly.
 
 ```c
 #include <stdio.h>
